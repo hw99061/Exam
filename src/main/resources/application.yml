@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://10.10.0.57:3306/gtpark_db
+    username: root
+    password: okestro2018

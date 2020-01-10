@@ -1,0 +1,7 @@
+GET https://jojoldu.tistory.com/266?category=678716
+### 직접 JSON 사용
+POST https://localhost:8080/group
+Content-Type: application/json
+
+
+###
